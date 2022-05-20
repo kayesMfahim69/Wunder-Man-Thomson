@@ -1,0 +1,82 @@
+
+@media (max-width: 575.98px) {
+    .carousel-item h5{
+        font-size: 35px;
+    }
+    .hb-text h1 {
+        font-size: 44px;
+        font-family: 'Gothix A1','sans-serif';
+        font-weight: 500;
+    }
+    .hb-text button {
+        padding: 8px 20px;
+        font-size: 16px;
+        font-family: 'Gothix A1','sans-serif';
+        font-weight: 500;
+        background: #EC4E20;
+        border: none;
+    }
+    .card-body p {
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .card-body h3 {
+        font-size: 25px;
+        font-family: 600;
+        margin-bottom: 10px;
+    }
+    .works-button button {
+        padding: 16px 10px;
+    }
+}
+@media (max-width: 767.98px) {
+    .hb-text h1 {
+        font-size: 44px;
+    }
+    .card-body {
+        height: 100%;
+    }
+    .card-body h3 {
+        font-size: 26px;
+    }
+    .card-body h4 {
+        font-size: 16px;
+        font-weight: 700;
+       margin-bottom: 10px;
+    }
+    .card-body p {
+        font-size: 15px;
+    }
+}
+
+
+@media (max-width: 991.98px) {
+    .hb-text h1 {
+        font-size: 34px;
+    }
+    .footer-content2 h6 {
+        font-size: 16px;
+        padding: 0px;
+        color: #fff;
+        margin-bottom: 5px;
+    }
+    .f-text h4 {
+        margin-top: 50px;
+        font-size: 16px;
+    }
+    .footer-text h5 {
+        font-size: 17px;
+        padding: 0px;
+        color: #fff;
+         margin-bottom: 5px; 
+    }
+
+ }
+
+@media (max-width: 1199.98px) {
+
+}
+
+@media (max-width: 1399.98px) {
+
+}
